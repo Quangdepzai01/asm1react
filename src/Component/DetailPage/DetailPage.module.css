@@ -1,0 +1,11 @@
+.textColor1 {
+    color: var(--secondary-color1);
+}
+
+.textColor2 {
+    color: var(--third-color1);
+}
+
+.bg-gray {
+    background-color: var();
+}

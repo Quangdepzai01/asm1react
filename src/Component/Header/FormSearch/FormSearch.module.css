@@ -1,0 +1,19 @@
+.inputNum {
+    width: 80px;
+}
+
+.inputDay {
+    width: 80px;
+    border: none;
+}
+
+
+.formSearch {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateY(50%) translateX(-50%);
+    z-index: 1;
+    border: 3px solid #e3b52a;
+    border-radius: 5px;
+}

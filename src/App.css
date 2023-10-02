@@ -1,0 +1,21 @@
+.item:active,.item:hover {
+    cursor: pointer
+}
+
+.active,.item:active,.item:hover {
+    border: 1px solid hsla(0,0%,100%,.5);
+    border-radius: 10px
+}
+
+ul {
+    list-style-type: none
+}
+
+.FormSearch_inputNum__kzCY9 {
+    width: 80px
+}
+
+.FormSearch_inputDay__ulHVN {
+    border: none;
+    width: 80px
+}

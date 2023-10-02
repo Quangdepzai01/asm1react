@@ -1,0 +1,12 @@
+
+
+.inputText {
+    width:80%;
+}
+
+.calender {
+    position: absolute;
+    /* overflow: hidden; */
+    z-index: 1;
+
+}

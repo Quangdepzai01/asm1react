@@ -1,0 +1,14 @@
+
+.imgHotel {
+    height: 250px;
+}
+
+.typeName a {
+    text-decoration: none;
+    color: black;
+}
+
+.typeName a:hover {
+    color: rgb(140, 150, 164);
+
+}

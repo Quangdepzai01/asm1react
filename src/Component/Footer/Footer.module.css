@@ -1,0 +1,13 @@
+footer {
+    color: var(--primary-color1);
+}
+
+.af {
+    text-decoration: none;
+    color: var(--primary-color1);
+}
+
+.af:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
